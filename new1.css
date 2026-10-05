@@ -7,7 +7,7 @@ body {
   background-color: #f5e0e5;
   position: relative;
   font-family: "Roboto", sans-serif;
-  background-image: url('https://raw.githack.com/liloftvalley/Mumumu/refs/heads/main/1539.png')
+  background-image: url('https://raw.githack.com/liloftvalley/Mumumu/refs/heads/main/1539.png');
 }
 .player {
   position: absolute;
@@ -17,7 +17,7 @@ body {
   width: 330px;
   height: 530px;
   border-radius: 15px;
-  background-image: url('https://raw.githack.com/liloftvalley/Mumumu/refs/heads/main/1538.png')
+  background-image: url('https://raw.githack.com/liloftvalley/Mumumu/refs/heads/main/1538.png');
   box-shadow: 0 15px 20px 10px #44076A;
   
 }
